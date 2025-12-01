@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "reasolons": [
+    {
+      "name": "climate-policy",
+      "path": "climate-policy/",
+      "description": "climate policy"
+    },
+    {
+      "name": "ai-matters",
+      "path": "ai-matters/",
+      "description": "ai matters"
+    }
+  ]
+}
